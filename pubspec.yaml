@@ -1,0 +1,26 @@
+name: campushub
+description: CampusHub - Smart Resource Optimizer Flutter app starter.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  lottie: ^3.3.1
+  url_launcher: ^6.3.1
+  share_plus: ^10.1.4
+  carousel_slider: ^5.0.0
+  http: ^1.2.2
+  shared_preferences: ^2.5.6
+  mobile_scanner: ^7.4.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
